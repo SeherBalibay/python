@@ -11,7 +11,7 @@ while i>=1:
     print(i)
     i-=1
 
-#kullanıcıdan alacağınız 5 sayıyı ekranda sıralı bir şekilde yazdırın
+
 
 i=0
 list=[]
@@ -24,8 +24,7 @@ while (i<5):
 list.sort()
 print(list)
 
-# klavyeden girişi istenen username bilgisi için boşluk girildiği sürece tekrar username girişi isteyiniz
-#while username demek true olur while not username dersek false döndüür
+
 
 username=""
 
